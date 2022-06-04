@@ -1,0 +1,149 @@
+.bigbox {
+    position: relative;
+    text-align: center;
+    background-color: #FBFBFD;
+    padding-top: 9em;
+    max-height: 40em;
+    min-height: 40em;
+    margin-bottom: 1em;
+}
+
+.bigbox2 {
+    position: relative;
+    text-align: center;
+    background-color: #FBFBFD;
+    padding-top: 15em;
+    max-height: 40em;
+    min-height: 40em;
+    margin-bottom: 1em;
+}
+
+.text13 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+.text132 {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-size: 1.5em;
+}
+
+#link1 {
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 1.4em;
+    top: 20%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+}
+
+#link2 {
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 1.4em;
+    top: 20%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+}
+
+.topnav {
+    position: sticky;
+    background-color: rgb(26, 26, 26);
+    opacity: 90%;
+    top: 0;
+    padding: 0.9em;
+    font-size: 0.9em;
+    z-index: 1;
+    text-align: center;
+}
+
+.topnav a {
+    text-decoration: none;
+    color: #D7D7D7;
+    padding: 1em;
+}
+
+.navitem:hover {
+    color: white;
+}
+
+svg {
+    padding-left: 5px
+}
+
+.bigipad {
+    background-color: black;
+    max-height: 40em;
+    min-height: 40em;
+    margin-bottom: 1em;
+    padding-top: -3em;
+}
+
+.ipadair {
+    display: inline-block;
+    float: right;
+    height: 40em;
+}
+
+.ipadtext {
+    position: absolute;
+    color: white;
+    top: 170%;
+    left: 18%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.ipadtextcursive {
+    position: absolute;
+    color: purple;
+    top: 170%;
+    left: 31%;
+    transform: translate(-50%, -50%);
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 4em;
+    font-weight: bold;
+}
+
+#link22 {
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 1.4em;
+    top: 180%;
+    left: 28%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+}
+
+#link11 {
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 1.4em;
+    top: 180%;
+    left: 16%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+}
+
+.ipadtextdesc {
+    position: absolute;
+    color:white;
+    top: 175%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-size: 1.5em;
+}
